@@ -1,0 +1,8 @@
+{
+    "author_name": "HC",
+    "author_email": "a@b.com",
+    "package_name": "HCProject",
+    "package_version": "0.1.0",
+    "package_description": "An opinionated, minimal cookiecutter template for PyPI packages",
+    "package_url": "TODO"
+}
